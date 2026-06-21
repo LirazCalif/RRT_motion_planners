@@ -10,7 +10,7 @@ configuration spaces.
 
 ### Lab Experiments
 
-[▶️ Watch] (outputs/exp1.mp4) 
+ [▶️ Watch] (https://drive.google.com/file/d/1xHlRwAUQULViIg3vwamcaj0ALhwC8URG/view?usp=sharing)
 
 ### Simulations
 
