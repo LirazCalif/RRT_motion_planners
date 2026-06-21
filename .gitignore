@@ -1,0 +1,12 @@
+# Python caches
+__pycache__/
+*.pyc
+
+# Large media files
+*.mp4
+
+# Report with student ID
+HW_3_211765391.pdf
+
+# Copied/backup files
+*עותק*
