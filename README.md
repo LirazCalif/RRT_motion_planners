@@ -22,15 +22,15 @@ configuration spaces.
 
 ![RRT 2D 20%](plan_rrt_2d_20_percent.gif)
 
-**RRT* — 2D (5% goal bias)**
+**RRT Star — 2D (5% goal bias)**
 
 ![RRT* 2D 5%](rrt_star_2d_5_percent.gif)
 
-**RRT* — 2D (20% goal bias)**
+**RRT Star — 2D (20% goal bias)**
 
 ![RRT* 2D 20%](rrt_star_2d_20_percent.gif)
 
-**RRT* — 3D Configuration Space**
+**RRT Star — 3D Configuration Space**
 
 ![RRT* 3D](Run_section2_3d_rrt_star.png)
 
